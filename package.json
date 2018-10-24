@@ -1,0 +1,26 @@
+{
+    "name": "storatron",
+    "version": "0.1.0",
+    "main": "./main.js",
+    "description": "Software for inventory management and predicting order to producers.",
+    "author": {
+        "email": "zackary.b@live.fr",
+        "name": "Zackary Beaugelin",
+        "url": "http://zbgn.fr"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gysco/storatron"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^3.0.5",
+        "electron-window-state": "^5.0.2",
+        "eslint": "^5.7.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {}
+}
