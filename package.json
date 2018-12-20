@@ -17,7 +17,7 @@
         "start": "electron ."
     },
     "devDependencies": {
-        "electron": "3.0.6",
+        "electron": "4.0.0",
         "electron-window-state": "5.0.2",
         "eslint": "5.7.0",
         "eslint-config-google": "0.11.0"
